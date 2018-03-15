@@ -1,1 +1,1 @@
-print("ceshi yi ge")
+print("第一次使用")
